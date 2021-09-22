@@ -1,0 +1,12 @@
+.container {
+  padding: 2px;
+  max-width: 1600px;
+  font-family: "Vazir";
+}
+.cards {
+  font-family: "Vazir";
+}
+@font-face {
+  font-family: "Vazir";
+  src: local("Vazir"), url(../styles/Vazir-Regular.woff) format("woff");
+}

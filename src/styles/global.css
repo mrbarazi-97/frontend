@@ -1,0 +1,9 @@
+body {
+  padding: 2px;
+  direction: rtl;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
